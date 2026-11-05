@@ -1,0 +1,30 @@
+#heading{
+    color: brown;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+.container1{
+    background-color: rgb(150, 235, 235);
+    text-align: center;
+    h1{
+        color: blue;
+    }
+    
+}
+.container2{
+    background-color: beige;
+    color: brown;
+    h1{
+        color: tomato;
+    }
+
+}
+.container3{
+    color: rgb(0, 255, 13);
+    background-color: blueviolet;
+
+}
+.container{
+    background-color: antiquewhite;
+}
