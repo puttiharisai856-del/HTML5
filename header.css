@@ -1,0 +1,24 @@
+footer {
+    background-color: black;
+    color: rgb(184, 32, 32);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    text-align: center;
+}
+header{
+    background-color: aqua;
+    button{
+        background-color: black;
+        color: aqua;
+        border-radius: 20px;
+        height: 20px;
+        width: 94px;
+        }
+    }
+    color: rgb(76, 0, 255);
+
+    
+}

@@ -1,0 +1,11 @@
+.child{
+    height: 398px;
+    width: 428px;
+}
+.btn{
+    border-radius: 20px;
+    background-color: black;
+    color: aqua;
+    height: 30px;
+    width: 85px;
+}
